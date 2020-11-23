@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(240, 230, 140);
+}
+  h1 {
+    align-content: center ;
+    color: rgb(139, 69, 19);
+    font-size-adjust: 1.875em
+    font-weight:900;
+  }
+  h2{ 
+    color: rgb(139, 69, 19);
+   } 
